@@ -21,7 +21,7 @@ My proficiency extends beyond technical expertise. I am a skilled communicator w
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arnav7777&theme=radical)](https://git.io/streak-stats)
 
-## Badges
+## Google Arcade
 
 [![Google Cloud Arcade Badge](https://i.ibb.co/gWL6LkW/fhgvnbmmnbmnbnm.png)](https://www.cloudskillsboost.google/public_profiles/0bf5d3f3-b09c-4f78-8066-061314a06ac2)
 
