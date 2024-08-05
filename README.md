@@ -19,6 +19,10 @@ My proficiency extends beyond technical expertise. I am a skilled communicator w
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=arnav7777&show_icons=true&theme=radical" alt="Arnav's GitHub stats" style="height: 150px; width: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnav7777&layout=compact&theme=radical" alt="Top Langs" style="height: 150px; width: auto;" />
+  <img src="https://komarev.com/ghpvc/?username=arnav7777" alt="Profile Views" style="height: 150px; width: auto;" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=arnav7777&theme=highcontrast&border_radius=9&hide_longest_streak=true" alt="GitHub Streak" style="height: 150px; width: auto;" />
+  </a>
 </div>
 
 ## Google Arcade
