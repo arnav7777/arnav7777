@@ -1,6 +1,6 @@
 # Hi there, I'm Arnav Pratap Singh! 👋
 
-![Lottie Animation](https://lottie.host/9ccc5a5b-edd3-438b-b7c0-8084a28f97da/DphOSxdESB.gif)
+![Cover Picture](https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1722845812~exp=1722849412~hmac=84a92c565fd00e2dd6f49def6854fcccaa76ea81092ed60481a8183a3cd872ab&w=740)
 
 ## About Me
 
