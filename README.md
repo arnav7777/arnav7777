@@ -14,7 +14,7 @@ My proficiency extends beyond technical expertise. I am a skilled communicator w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-pratap-singh-29b912282/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnav7777)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://arnav7777.github.io/arnavpratapsingh-portfolio/)
- <img src="https://komarev.com/ghpvc/?username=arnav7777" alt="Profile Views" style="height: 40px;" />
+ <img src="https://komarev.com/ghpvc/?username=arnav7777" alt="Profile Views" style="height: 30px;" />
 
 ## GitHub Stats
 
