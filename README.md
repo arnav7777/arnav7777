@@ -11,7 +11,7 @@ My proficiency extends beyond technical expertise. I am a skilled communicator w
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-pratap-singh-29b912282/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TechwithRhyno) 
-[![](https://visitcount.itsvg.in/api?id=arnav7777&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=arnav7777&icon=0&color=0)]()
  
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=arnav7777&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
