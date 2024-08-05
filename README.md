@@ -10,15 +10,15 @@ My proficiency extends beyond technical expertise. I am a skilled communicator w
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-pratap-singh-29b912282/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arnav-pratap-singh-29b912282/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@TechwithRhyno) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arnav7777)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://arnav7777.github.io/arnavpratapsingh-portfolio/)
- <img src="https://komarev.com/ghpvc/?username=arnav7777" alt="Profile Views" style="height: 28px;" />
-
+[![](https://visitcount.itsvg.in/api?id=arnav7777&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=arnav7777&theme=prussian&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arnav7777&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav7777&theme=prussian&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arnav7777&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arnav7777&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav7777&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=arnav7777&theme=nord&no-frame=true&no-bg=true&margin-w=4)
