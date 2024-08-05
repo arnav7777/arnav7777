@@ -23,10 +23,7 @@ My proficiency extends beyond technical expertise. I am a skilled communicator w
 
 ## Badges
 
-
-## Google Arcade Program
-
-I have also participated in the Google Arcade Program, which has helped me enhance my skills and knowledge in various Google technologies.
+[![Google Cloud Arcade Badge](https://i.ibb.co/gWL6LkW/fhgvnbmmnbmnbnm.png)](https://www.cloudskillsboost.google/public_profiles/0bf5d3f3-b09c-4f78-8066-061314a06ac2)
 
 ## Get in Touch
 
