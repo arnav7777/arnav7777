@@ -30,3 +30,6 @@ Feel free to reach out if you'd like to collaborate on a project or just want to
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsinghp27@gmail.com)
 [![](https://visitcount.itsvg.in/api?id=arnav7777&icon=0&color=2)]()
+
+![GitHub Snake](https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-contribution-grid-snake.svg)
+
