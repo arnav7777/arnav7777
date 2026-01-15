@@ -17,6 +17,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake.gif
+            snake_color: "#ff9800"
+             bg_color: "#0d1117"
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v4
